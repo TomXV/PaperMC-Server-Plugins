@@ -55,3 +55,6 @@ https://www.spigotmc.org/resources/loginsecurity.19362/
 https://get.mcbans.com/
 
 https://www.spigotmc.org/resources/worldeditsui-visualize-your-selection.60726/
+
+https://www.spigotmc.org/resources/wg-gui.57951/
+
