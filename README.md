@@ -47,3 +47,5 @@ https://www.spigotmc.org/resources/lightapi.4510/
 ## セキュリティープラグイン
 
 https://www.spigotmc.org/resources/loginsecurity.19362/
+
+https://get.mcbans.com/
