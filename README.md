@@ -51,3 +51,5 @@ https://www.spigotmc.org/resources/lightapi.4510/
 https://www.spigotmc.org/resources/loginsecurity.19362/
 
 https://get.mcbans.com/
+
+https://www.spigotmc.org/resources/worldeditsui-visualize-your-selection.60726/
