@@ -40,6 +40,8 @@ https://www.spigotmc.org/resources/quality-armory.47561/
 
 https://www.spigotmc.org/resources/crackshot-guns.48301/
 
+https://www.spigotmc.org/resources/lightapi.4510/
+
 #
 # オプション
 ## セキュリティープラグイン
