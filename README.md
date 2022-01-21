@@ -33,6 +33,8 @@ https://www.spigotmc.org/resources/lockettepro-uuid-support-abandoned-restarting
 
 https://www.spigotmc.org/resources/multiverse-core.390/
 
+https://www.spigotmc.org/resources/dynmap%C2%AE.274/
+
 #
 # 銃器プラグイン
 
